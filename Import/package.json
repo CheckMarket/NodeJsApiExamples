@@ -1,0 +1,14 @@
+{
+  "name": "node-js-api-client",
+  "version": "0.0.0",
+  "description": "NodeJsApiClient",
+  "main": "app.js",
+  "author": {
+    "name": "bart",
+    "email": ""
+  },
+  "dependencies": {
+    "swagger-client": "2.1.18",
+    "wait-until": "0.0.2"
+  }
+}
